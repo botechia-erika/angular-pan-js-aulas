@@ -3,11 +3,14 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "aula1": "nodemon ./aulas/aula1.js",
-    "desafio1": "nodemon ./primeiro_desafio.js",
-    "aula2": "nodemon ./aulas/aula2.js"
+    "desafio1": "nodemon ./desafios/primeiro_desafio.js",
+    "aula2": "nodemon ./aulas/aula2.js",
+    "desafio2": "nodemon ./desafios/segundo_desafio.js",
+    "resolucao2": "nodemon ./resolucoes/resolucao_desafio2.js"
   },
   "keywords": [],
   "author": "",
