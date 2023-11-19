@@ -1,0 +1,25 @@
+{
+  "name": "angular01-pan-js-aulas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "aula1": "nodemon ./aulas/aula1.js",
+    "desafio1": "nodemon ./desafios/primeiro_desafio.js",
+    "aula2": "nodemon ./aulas/aula2.js",
+    "desafio2": "nodemon ./desafios/segundo_desafio.js",
+    "resolucao2": "nodemon ./resolucoes/resolucao_desafio2.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "dependencies": {
+    "colors": "^1.4.0",
+    "readline-sync": "^1.4.10"
+  }
+}

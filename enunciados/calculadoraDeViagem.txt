@@ -1,0 +1,12 @@
+## Calculadora de Viagems
+Criar 3 variaveis
+- Preco do combustivel
+- Gasto medio do combustivel de carro por km
+- Distancia media em km da viagem 
+
+## expansao calculadora de viagem
+1- preco etanol
+2- preco gasolina
+3- tipo de combustivel do carro
+4- Gasto medio de combustivel do carro por km
+5- distancia percorrida por viagem
