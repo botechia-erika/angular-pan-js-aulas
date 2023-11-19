@@ -1,0 +1,5 @@
+## Calculadora de Viagems
+Criar 3 variaveis
+- Preco do combustivel
+- Gasto medio do combustivel de carro por km
+- Distancia media em km da viagem 
