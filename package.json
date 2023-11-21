@@ -7,10 +7,20 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "aula1": "nodemon ./aulas/aula1.js",
-    "desafio1": "nodemon ./desafios/primeiro_desafio.js",
     "aula2": "nodemon ./aulas/aula2.js",
+    "aula3": "nodemon ./aulas/aula3.js",
+    "desafio1": "nodemon ./desafios/primeiro_desafio.js",
     "desafio2": "nodemon ./desafios/segundo_desafio.js",
-    "resolucao2": "nodemon ./resolucoes/resolucao_desafio2.js"
+    "resolucao2": "nodemon ./resolucoes/resolucao_desafio2.js",
+    "resolucao3": "nodemon ./resolucoes/resolucao_lista2.js",
+    "resolucao4": "nodemon ./resolucoes/resolucao_lista3.js",
+    "lista1": "nodemon ./lista/exercicio1.js",
+    "lista2": "nodemon ./lista/exercicio2.js",
+    "lista3": "nodemon ./lista/exercicio3.js",
+    "extra1": "nodemon ./extras/map.js",
+    "extra2": "nodemon ./extras/filter.js",
+    "extra3": "nodemon ./extras/reduce.js",
+    "extra4": "nodemon ./extras/switch.js"
   },
   "keywords": [],
   "author": "",
