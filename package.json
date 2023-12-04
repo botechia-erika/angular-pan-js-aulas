@@ -1,35 +1,41 @@
 {
-  "name": "angular01-pan-js-aulas",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "type": "module",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "aula1": "nodemon ./aulas/aula1.js",
-    "aula2": "nodemon ./aulas/aula2.js",
-    "aula3": "nodemon ./aulas/aula3.js",
-    "desafio1": "nodemon ./desafios/primeiro_desafio.js",
-    "desafio2": "nodemon ./desafios/segundo_desafio.js",
-    "resolucao2": "nodemon ./resolucoes/resolucao_desafio2.js",
-    "resolucao3": "nodemon ./resolucoes/resolucao_lista2.js",
-    "resolucao4": "nodemon ./resolucoes/resolucao_lista3.js",
-    "lista1": "nodemon ./lista/exercicio1.js",
-    "lista2": "nodemon ./lista/exercicio2.js",
-    "lista3": "nodemon ./lista/exercicio3.js",
-    "extra1": "nodemon ./extras/map.js",
-    "extra2": "nodemon ./extras/filter.js",
-    "extra3": "nodemon ./extras/reduce.js",
-    "extra4": "nodemon ./extras/switch.js"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "devDependencies": {
-    "nodemon": "^3.0.1"
-  },
-  "dependencies": {
-    "colors": "^1.4.0",
-    "readline-sync": "^1.4.10"
-  }
+    "name": "angular01-pan-js-aulas",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "aula1": "nodemon ./aulas/aula1.js",
+        "aula2": "nodemon ./aulas/aula2.js",
+        "aula3": "nodemon ./aulas/aula3.js",
+        "desafio1": "nodemon ./desafios/primeiro_desafio.js",
+        "desafio2": "nodemon ./desafios/segundo_desafio.js",
+        "resolucao2": "nodemon ./resolucoes/resolucao_desafio2.js",
+        "resolucao3": "nodemon ./resolucoes/resolucao_lista2.js",
+        "resolucao4": "nodemon ./resolucoes/resolucao_lista3.js",
+        "lista1": "nodemon ./lista/exercicio1.js",
+        "lista2": "nodemon ./lista/exercicio2.js",
+        "lista3": "nodemon ./lista/exercicio3.js",
+        "lista4": "nodemon ./lista/exercicio4.js",
+        "lista5": "nodemon ./lista/exercicio5.js",
+        "lista6": "nodemon ./lista/exercicio6.js",
+        "lista7": "nodemon ./lista/exercicio7.js",
+        "rf1": "nodemon ./refactor/refactor1.js",
+        "rf2": "nodemon ./refactor/refactor2.js",
+        "extra1": "nodemon ./extras/map.js",
+        "extra2": "nodemon ./extras/filter.js",
+        "extra3": "nodemon ./extras/reduce.js",
+        "extra4": "nodemon ./extras/switch.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "nodemon": "^3.0.1"
+    },
+    "dependencies": {
+        "colors": "^1.4.0",
+        "readline-sync": "^1.4.10"
+    }
 }
