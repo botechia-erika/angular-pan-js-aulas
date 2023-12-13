@@ -18,6 +18,8 @@
         "resolucao4": "nodemon ./resolucoes/resolucao_lista3.js",
         "car": "nodemon ./resolucoes/classCarros.js",
         "imc": "nodemon ./resolucoes/classIMC.js ",
+        "tabuada": "nodemon ./resolucoes/forTabuada.js ",
+        "pares": "nodemon ./resolucoes/forPares.js ",
         "lista1": "nodemon ./lista/exercicio1.js",
         "lista2": "nodemon ./lista/exercicio2.js",
         "lista3": "nodemon ./lista/exercicio3.js",
